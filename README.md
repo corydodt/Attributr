@@ -16,3 +16,5 @@ Build notes:
 3. make
 
 Find the output in README.md, which is modified by running make.
+
+<!-- https://flic.kr/p/cfE3j -->
